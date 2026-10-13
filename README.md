@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Deepcode2021
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C ,python , linux, and web dev
-- 🧭 Explorer in the ocean of TECH
+👋 Hi, I’m Deepak
+🧭 Explorer in the ocean of TECH
+
+
+
 ## Skills
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
